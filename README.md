@@ -17,6 +17,7 @@
 <br>список замапленных портов 80/tcp
 <br>ip контейнера 127.17.0.2
 <br>
+
 - Останови докер образ через `docker stop [container_id|container_name]`
 <br>![docker stop screenshot](screenshots/docker_stop.png)
 - Проверь, что образ остановился через `docker ps`
